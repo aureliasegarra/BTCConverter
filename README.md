@@ -41,7 +41,7 @@
 
 
 ## ✨ Illustration <a id="illustration"></a>
-<img src="screenshot.png" alt="screenshot" width="80%">
+<img src="screenshot.png" alt="screenshot" width="30%">
 
 
 
