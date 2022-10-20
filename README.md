@@ -29,7 +29,6 @@
     <li><a href="#description">Description</a></li>
     <li><a href="#languages">Languages</a></li>
     <li><a href="#objectives">Objectives</a></li>
-    <li><a href="#setup">Setup</a></li>
     <li><a href="#status">Status</a></li>
     <li><a href="#context">Context</a></li>
   </ol>
@@ -58,10 +57,6 @@
 
 ## 🎯 Objectives <a id="objectives"></a>
 The objective of this practical work is to become familiar with the environment and the development of mobile applications, in order to focus on the study of Android security.
-
-
-## ⚙️ Setup <a id="setup"></a>
-How to launch the program :
 
 
 
