@@ -7,7 +7,7 @@
 
 <br/>
 <div align="center">
-    <img src="logo.jpg" alt="Logo" width="20%">
+    <img src="btc.jpg" alt="Logo" width="20%">
     <br/>
     <h1 align="center">Crypto Converter</h1>
 </div>
