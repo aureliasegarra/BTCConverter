@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Converter</string>
+    <string name="btnConvert">Convert</string>
+    <string name="textFrom">From</string>
+    <string name="fieldAmount">Enter Amount</string>
+    <string name="textTo">To</string>
+    <string name="textFirstRadioButton">EUR</string>
+    <string name="textSecondRadioButton">BTC</string>
+    <string name="descriptionLogo">logo</string>
+
 </resources>
